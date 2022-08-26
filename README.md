@@ -1,5 +1,3 @@
-<h1> Welcome To My Profile !</h1>
-
 ### <div align="center">I'm Ege, a HighSchool Student, And Indie Game Developer🤠</div>  
   
 
