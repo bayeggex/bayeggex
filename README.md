@@ -10,7 +10,10 @@
 - ❓ Ask me about anything related to Unity C#  
   
 
-- ⚡ Fun fact: my name is pronounce it as Eg-ge  
+- ⚡ Fun fact: my name is pronounce it as Eg-ge 
+
+
+- 🎷 The code is like a joke. It's bad if you have to explain
   
 
 <br/>  
