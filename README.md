@@ -86,8 +86,7 @@
       <p align="center">  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bayeggex&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </p>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=bayeggex&style=for-the-badge&label=Visitors"/>
-  <p align="center"><img src="https://count.getloli.com/get/@:bayeggex" alt=":bayeggex" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:bayeggex" alt=":bayeggex" /></p>
    </td></tr></table>  
 <br/>  
 </details>
