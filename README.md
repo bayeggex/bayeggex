@@ -54,7 +54,17 @@
 </details>
 
 ## 👷most used programming languages
+
+<details>
+  <summary>Click to expand</summary>
+   <table><tr><td valign="top" width="33%">
+      <p align="center">  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&langs_count=8)](https://github.com/bayeggex/github-readme-stats)
+
+</td></tr></table>  
+<br/>  
+</details>
 
 ## 🎥Social Network Stats
 
