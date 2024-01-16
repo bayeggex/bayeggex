@@ -34,11 +34,12 @@
 
 ### Backend   
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
-  
+<a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/lua-5-logo.png" alt="Lua" height="50" /></a>  
+<a href="https://luau-lang.org/" target="_blank"><img style="margin: 10px" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="Luau" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
@@ -48,8 +49,10 @@
 ### DevOps  
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://www.primarymarkets.com/wp-content/uploads/2023/09/Unity-Technologies.png" alt="Unity" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-2048x2048-2xrze4w8.png" alt="Unreal Engine" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" alt="Kotlin" height="50" /></a>  
 </div>
    </td></tr></table>  
 <br/>  
