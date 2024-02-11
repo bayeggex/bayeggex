@@ -1,4 +1,4 @@
-### <div align="center">I'm Ege, a HighSchool Student, And Indie Game Developer🤠</div>  
+### <div align="center">I'm Ege, a HighSchool Student, Making Game, Indie Game Developer, Programming Random Stuffs And Electornical Technician Student🤠</div>  
 
 
 
