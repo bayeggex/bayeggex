@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Medium+500&pause=1000&color=24F78F&center=true&random=false&width=435&lines=HELLO+WORLD!%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+PAGE+%F0%9F%92%A4)](https://git.io/typing-svg)
+
 ### <div align="center">I'm Ege, a HighSchool Student, Making Game, Indie Game Developer, Programming Random Stuffs And Electornical Technician Student🤠</div>  
 
 
@@ -106,6 +108,3 @@
 <br/>  
 </details>
 
-
-
-  
