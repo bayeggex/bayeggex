@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Lixei Survival Game Project](https://github.com/bayeggex/Lixei-like-Inventory)  
   
 
-- 🌱 I’m currently learning c++  
+- 🌱 I’m currently learning Go
   
 
 - ❓ Ask me about anything related to Unity C#  
