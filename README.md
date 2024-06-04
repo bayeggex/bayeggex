@@ -34,6 +34,7 @@
           <code><a href="https://luau-lang.org/" target="_blank"><img style="margin: 10px" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="Luau" height="50" /></a></code>
           <code><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" alt="Python" height="50" /></a></code>
           <code><a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" alt="Kotlin" height="50" /></a></code>
+          <code><a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/golang-icon-398x512-eygvdisi.png" alt="Go" height="50" /></a></code>
           <h3>🛠️ Software Tools</h3>
           <code><a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a></code>
           <code><a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://www.primarymarkets.com/wp-content/uploads/2023/09/Unity-Technologies.png" alt="Unity" height="50" /></a></code>
