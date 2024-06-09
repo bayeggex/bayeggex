@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Ege, Indie Game Developer, Programming Random Stuff, and an Electronics Technician Student 🤠</div>
 
-- 🔭 I’m currently working on [Lixei Survival Game Project](https://github.com/bayeggex/Lixei-like-Inventory)
+- 🔭 I’m currently working on [ModernChatApp](https://github.com/bayeggex/ModernChatApp)
   
 - 🌱 I’m currently learning Go
   
