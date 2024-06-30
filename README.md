@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Ege, Indie Game Developer, Programming Random Stuff, and an Electronics Technician Student 🤠</div>
 
-- 🔭 I’m currently working on [ModernChatApp](https://github.com/bayeggex/ModernChatApp)
+- 🔭 I’m currently working on [ModernChatApp](https://github.com/bayeggex/ModernChatApp) & [Arduino AI Chat Library](https://github.com/bayeggex/Arduino-AI-Chat-Library)
   
 - 🌱 I’m currently learning Go
   
