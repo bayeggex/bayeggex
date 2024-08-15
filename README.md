@@ -32,7 +32,7 @@
 
   ![bayeggex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayeggex&theme=dracula&hide_border=true)
 
-  ![bayeggex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  ![bayeggex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 #### Github Viewer Stats
 
