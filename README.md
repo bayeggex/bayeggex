@@ -18,7 +18,7 @@
   <code><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" /></code>
   <code><img alt="Jetbrains Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" /></code>  
   <code><img alt="Arduino IDE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"" /></code>  
-  <code><img alt="Thonny" width="40px" src="https://static.macupdate.com/products/61594/m/thonny-logo.png?v=1617899142"" /></code>
+  <code><img alt="Thonny" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png?20181127113433" /></code>
 </div>
 
 <details>
@@ -32,7 +32,7 @@
 
   ![bayeggex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayeggex&theme=dracula&hide_border=true)
 
-  ![bayeggex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![bayeggex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 #### Github Viewer Stats
 
