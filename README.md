@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on [ModernChatApp](https://github.com/bayeggex/ModernChatApp) & [Arduino AI Chat Library](https://github.com/bayeggex/Arduino-AI-Chat-Library)
 - ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of coffee
+- 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
 
 #### Languages and Tools that I like and use:
 
