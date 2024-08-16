@@ -8,7 +8,6 @@
 #### Languages and Tools that I like and use:
 
 <div align="left">
-  <code><img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" s" /></code>
   <code><img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" " /></code>
   <code><img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" " /></code> 
   <code><img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" " /></code> 
@@ -16,7 +15,8 @@
   <code><img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
   <code><img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"" /></code>
   <code><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" /></code>
-  <code><img alt="Jetbrains Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" /></code>  
+  <code><img alt="Jetbrains Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" /></code>
+  <code><img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" s" /></code>
   <code><img alt="Arduino IDE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"" /></code>  
   <code><img alt="Thonny" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png?20181127113433" /></code>
 </div>
