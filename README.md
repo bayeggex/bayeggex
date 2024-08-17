@@ -14,6 +14,7 @@
   <code><img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" " /></code> 
   <code><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"" /></code>
   <code><img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
+  <code><img alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></code>
   <code><img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"" /></code>
   <code><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" /></code>
   <code><img alt="Jetbrains Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" /></code>
