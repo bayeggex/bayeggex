@@ -6,6 +6,17 @@
 - ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of coffee
 - 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
 
+### Links
+- [🔗 YouTube](https://www.youtube.com/channel/UCBQXlwhjwxaEdUlCY42zvMg)
+- [🔗 Website](https://bayeggex.github.io/)
+- [🔗 Discord Server](https://discord.com/invite/f9Bf8jAAzr)
+- [🔗 GitHub](https://github.com/bayeggex)
+- [🔗 For Gamers](https://www.backloggd.com/u/bayeggex/)
+- [🔗 For Weebs](https://myanimelist.net/profile/Reangron)
+- [🔗 For Vinyl Collection](https://www.discogs.com/user/Eggex/collection)
+- [🔗 For Movie Lovers](https://letterboxd.com/eggex/films/)
+  
+
 #### Languages and Tools that I like and use:
 
 <div align="left">
