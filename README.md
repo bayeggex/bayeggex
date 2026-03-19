@@ -2,7 +2,6 @@
 
 ### <div align="center"> Electronics Technology (Associate Degree) 🎓 | Embedded Systems & Hardware Geek ⚙️ | Powered by Coffee ☕️ | Gaming Enthusiast 🎮❤️</div>
 
-- 🔭 I’m currently working on [ModernChatApp](https://github.com/bayeggex/ModernChatApp) & [Arduino AI Chat Library](https://github.com/bayeggex/Arduino-AI-Chat-Library)
 - ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of coffee
 - 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
 
